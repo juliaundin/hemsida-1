@@ -1,0 +1,48 @@
+
+p{color: orange;
+font-size: 20px;}
+h2{color: white;
+text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+font-size: 30px}
+h3{color: pink;
+font-size: 20px}
+h1{text-shadow: 1px 1px purple;
+	margin-left:50px;
+	margin-right:50px;
+background-color:pink;
+border-style:dotted;
+	border-radius: 50px;
+border-color: purple;
+padding:25px
+}
+
+.about-me {
+  background-color: #ffcccc;
+  padding: 20px;
+  border-radius: 50px;
+	margin-left:50px;
+	margin-right:50px;
+}
+.projekt1{
+	background-color: #FEC584;
+  padding: 20px;
+  border-radius: 50px;
+	margin-left:50px;
+	margin-right:50px;
+}
+
+.projekt2{
+	background-color: #ffcccc;
+  padding: 20px;
+  border-radius: 50px;
+	margin-left:50px;
+	margin-right:50px;
+}
+
+.kontakt{
+background-color: #FEC584;
+  padding: 20px;
+  border-radius: 50px;
+	margin-left:50px;
+	margin-right:50px;
+}
